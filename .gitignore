@@ -1,4 +1,5 @@
 /.project
+/.idea
 /.loadpath
 /config/configuration.yml
 /config/email.yml
