@@ -32,3 +32,8 @@
 /config/unicorn.rb
 /Capfile
 /config/deploy.rb
+
+# themes
+/public/themes/*
+!/public/themes/alternate
+!/public/themes/classic
