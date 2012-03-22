@@ -4,6 +4,7 @@
 /config/configuration.yml
 /config/email.yml
 /config/initializers/session_store.rb
+/config/unicorn.conf
 /coverage
 /db/*.db
 /db/*.sqlite3
